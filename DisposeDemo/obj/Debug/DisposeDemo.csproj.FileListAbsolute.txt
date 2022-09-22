@@ -1,0 +1,6 @@
+C:\Users\Gaurav\Desktop\Slides\New folder\CustomerDemo\DisposeDemo\bin\Debug\DisposeDemo.exe.config
+C:\Users\Gaurav\Desktop\Slides\New folder\CustomerDemo\DisposeDemo\bin\Debug\DisposeDemo.exe
+C:\Users\Gaurav\Desktop\Slides\New folder\CustomerDemo\DisposeDemo\bin\Debug\DisposeDemo.pdb
+C:\Users\Gaurav\Desktop\Slides\New folder\CustomerDemo\DisposeDemo\obj\Debug\DisposeDemo.csprojResolveAssemblyReference.cache
+C:\Users\Gaurav\Desktop\Slides\New folder\CustomerDemo\DisposeDemo\obj\Debug\DisposeDemo.exe
+C:\Users\Gaurav\Desktop\Slides\New folder\CustomerDemo\DisposeDemo\obj\Debug\DisposeDemo.pdb
